@@ -78,7 +78,7 @@ class Game {
           ellipse(x, y, 50, 50); 
           
         }
-        camera.position.x =members[index - 1].position.x;
+        
             }
        
         drawSprites();
